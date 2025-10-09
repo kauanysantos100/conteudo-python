@@ -8,4 +8,4 @@ media = soma/ 4
 
 media_outro = (nota_1 + nota_2 + nota_3 + nota_4)
 
-print(" A media de aluno é:")
+print(" A media de aluno é: ",media_outro)()
