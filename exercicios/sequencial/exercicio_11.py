@@ -16,7 +16,7 @@ numero_1 = int(input("digite o primeiro valor: "))
 
 triplo_num3 = numero_real * 3
 
-soma = numero_real + numero_1
+soma = triplo_num3 + numero_1
 
 print("A soma do triplo do terceiro com o primeiro é: ", soma)
 
@@ -24,5 +24,5 @@ print("A soma do triplo do terceiro com o primeiro é: ", soma)
 
 numero_2 = int(input("digite o segundo valor: "))
 
-resultado = numero_2 ** 2
-print("o numero dois elevado ao cubo é",resultado)
+resultado = numero_2 ** 3
+print("o numero 2 elevado ao cubo é",resultado)
